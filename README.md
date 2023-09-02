@@ -17,7 +17,7 @@
 #### 📅 **My Hobbies**
 ***
   - Solve programming problems at LeetCode
-  - Watch TV shows
+  - Watch Turkish series and movies
   - Read some novels
   - etc...
 
