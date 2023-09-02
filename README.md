@@ -1,4 +1,31 @@
-### Hi there 👋
+### Hi, I'm Hooria 👋
+### A Software Engineer from Pakistan
+
+
+#### 🚀 **One day I hope to...**
+***
+  - Travel the world.
+  - Go skydiving!
+  - Contribute code to the Linux Kernel
+  - Get a job at SG!
+
+#### 💬 **Ask me about**
+***
+  - Backend web development (Node.js, Elixir.js)
+  - Frontend web development (React.js, Next.js)
+
+#### 📅 **My Hobbies**
+***
+  - Solve programming problems at LeetCode
+  - Watch TV shows
+  - Read some novels
+  - etc...
+
+### 📚 **Learning About**
+***
+  - Docker
+  - Design Pattern
+
 
 <!--
 **syedahooriatariq/syedahooriatariq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
