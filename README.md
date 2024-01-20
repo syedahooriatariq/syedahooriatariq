@@ -1,7 +1,7 @@
 ### Hi, I'm Hooria 🐝
 ### A Software Engineer from Pakistan
 
-<img src="https://komarev.com/ghpvc/?username=syedahooriatariq&style=for-the-badge&color=blueviolet&abbreviated=true&base=1000&label=Bee's+Profile+Views" width="150">
+<img src="https://komarev.com/ghpvc/?username=syedahooriatariq&style=for-the-badge&color=blueviolet&abbreviated=true&base=1000&label=Bee's+Profile+Views" width="250">
 
 
 #### 🚀 **One day I hope to...**
