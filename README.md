@@ -1,6 +1,8 @@
 ### Hi, I'm Hooria 👋
 ### A Software Engineer from Pakistan
 
+<img src="https://komarev.com/ghpvc/?username=syedahooriatariq&color=red&base=1000" width="150">
+
 
 #### 🚀 **One day I hope to...**
 ***
