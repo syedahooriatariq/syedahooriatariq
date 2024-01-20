@@ -9,7 +9,7 @@
   - Travel the world.
   - Go skydiving!
   - Contribute code to the Linux Kernel
-  - Get a job at SG!
+  - Start my own business!
 
 #### 💬 **Ask me about**
 ***
@@ -18,7 +18,8 @@
 
 #### 📅 **My Hobbies**
 ***
-  - Solve programming problems at LeetCode
+  - Love to travel and have adventures
+  - Love watching the night sky and stars🌠
   - Watch Turkish series and movies
   - Read some novels
   - etc...
@@ -26,6 +27,8 @@
 ### 📚 **Learning About**
 ***
   - Docker
+  - Elixir
+  - Phoenix
   - Design Pattern
 
 
