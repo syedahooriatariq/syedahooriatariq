@@ -22,6 +22,7 @@
   - Love watching the night sky and stars🌠
   - Watch Turkish series and movies
   - Read some novels
+  - Watch Cooking Vlogs, But never cooks😎
   - etc...
 
 ### 📚 **Learning About**
