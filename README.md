@@ -1,4 +1,6 @@
-### Hi, I'm Hooria 🐝 - A Software Engineer from Pakistan
+### Hello, Sure! Here’s a revised version for Hooria:
+
+ I’m Hooria, a Software Engineer with 1.5 years of experience. I’m passionate about learning every new aspect of my field with love and dedication.
 
 <img src="https://komarev.com/ghpvc/?username=syedahooriatariq&style=flat&color=blueviolet&abbreviated=true&base=834&label=Bee's+Profile+Views" width="200" alt="hooria-tariq">
 
