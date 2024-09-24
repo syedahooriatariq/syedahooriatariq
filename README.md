@@ -1,14 +1,13 @@
 ### Hi, I'm Hooria 🐝 - A Software Engineer from Pakistan
 
-<img src="https://komarev.com/ghpvc/?username=syedahooriatariq&style=for-the-badge&color=blueviolet&abbreviated=true&base=834&label=Bee's+Profile+Views" width="200">
-
+<img src="https://komarev.com/ghpvc/?username=syedahooriatariq&style=flat&color=blueviolet&abbreviated=true&base=834&label=Bee's+Profile+Views" width="200" alt="hooria-tariq">
 
 #### 🚀 **One day I hope to...**
 ***
   - Travel the world.
   - Go skydiving!
   - Contribute code to the Linux Kernel
-  - Start my own business!
+  - Blow sky lanterns
 
 #### 💬 **Ask me about**
 ***
