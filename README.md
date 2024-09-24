@@ -1,4 +1,4 @@
-### Hello,
+### Hello👋,
 
  I’m Hooria, a Software Engineer with 1.5 years of experience. I’m passionate about learning every new aspect of my field with love and dedication.
 
